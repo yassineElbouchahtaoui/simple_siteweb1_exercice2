@@ -1,0 +1,44 @@
+
+.form1,.form2{
+  float: left;
+  margin-top:30px;
+}
+.form2{
+    width: 90px;
+    margin-left: 200px;
+
+}
+
+.clear{
+    clear: both;
+}
+
+.btn{
+   display: block;
+   margin-left: 320px;
+  
+   
+}
+.parenet{
+    background: rgb(243, 237, 237);
+    margin: 200px 200px;
+    width: 860px;
+    height: 400px;
+  
+   
+}
+.btn_res{
+    
+    margin:20px auto;
+    
+}
+.lbl{
+    
+    width: 480px;
+    margin-left: 420px;
+}
+.btn:hover{ 
+    background:bisque;
+    width:90px;
+    height: 50px;
+}
